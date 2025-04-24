@@ -32,7 +32,6 @@ I'm always curious, always learning, and always building something cool! 🚀
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
 </p>
 
-![GitHub Snake](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
